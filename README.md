@@ -1,11 +1,11 @@
+<h1 align="center">House Price Prediction</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
 </p>
-
-<h1 align="center">House Price Prediction</h1>
 
 <p align="center">
   A high-performance implementation of <b>Linear Regression</b> using <b>Gradient Descent</b>. This project focuses on predicting house prices by optimizing model weights through iterative gradient updates, featuring data standardization and a comparative analysis against the pseudo-inverse (Normal Equation) solution.
