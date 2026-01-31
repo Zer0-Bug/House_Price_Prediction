@@ -51,7 +51,7 @@ The system implements a classic machine learning workflow optimized for regressi
 <h2 align="center">Project Structure</h2>
 
 ```
-ML_LinearRegression-.-wGradientDescent/
+House_Price_Prediction/
 ├── LICENSE                                   # MIT License
 ├── README.md                                 # Project documentation
 ├── .gitattributes                            # Git configuration
@@ -138,8 +138,10 @@ RMSE = sqrt( (1 / n) * Σ [h_w(x⁽ⁱ⁾) - y⁽ⁱ⁾]² )
 Clone the repository and enter the project directory:
 
 ```bash
-git clone https://github.com/Zer0-Bug/ML_LinearRegression-.-wGradientDescent.git
-cd ML_LinearRegression-.-wGradientDescent
+git clone https://github.com/Zer0-Bug/House_Price_Prediction.git
+```
+```bash
+cd House_Price_Prediction
 ```
 
 ### Environment Setup
