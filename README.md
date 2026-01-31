@@ -8,7 +8,7 @@
 <h1 align="center">House Price Prediction</h1>
 
 <p align="center">
-  A high-performance implementation of <b>Simple Linear Regression</b> using <b>Gradient Descent</b>. This project focuses on predicting house prices by optimizing model weights through iterative gradient updates, featuring data standardization and a comparative analysis against the pseudo-inverse (Normal Equation) solution.
+  A high-performance implementation of <b>Linear Regression</b> using <b>Gradient Descent</b>. This project focuses on predicting house prices by optimizing model weights through iterative gradient updates, featuring data standardization and a comparative analysis against the pseudo-inverse (Normal Equation) solution.
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ RMSE = sqrt( (1 / n) * Σ [h_w(x⁽ⁱ⁾) - y⁽ⁱ⁾]² )
   </tr>
   <tr>
     <td align="center"><b>Algorithm</b></td>
-    <td align="center">Simple Linear Regression</td>
+    <td align="center">Linear Regression</td>
   </tr>
   <tr>
     <td align="center"><b>Optimization</b></td>
